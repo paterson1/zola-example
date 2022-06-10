@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paterson1.github.io/zola-example/sitemap.xml
